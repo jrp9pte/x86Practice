@@ -12,5 +12,5 @@ The second subroutine, `gcd`, calculates the greatest common divisor between two
 
 ## Prime
 
-The third subroutine, `prime`, determines whether an integer argument is prime or not. It uses the `gcd` subroutine to check if the argument has any common divisors other than 1 and itself. If the GCD between the argument and any number other than 1 is greater than 1, the argument is not prime. The prime subroutine employs an iterative approach, but the specific details of the iteration are not provided in the project description. The subroutine assumes a non-negative integer input.
+The third subroutine, `prime`, determines whether an integer argument is prime or not. It uses the `gcd` subroutine to check if the argument has any common divisors other than 1 and itself. If the GCD between the argument and any number other than 1 is greater than 1, the argument is not prime. The prime subroutine employs an iterative approach. The subroutine assumes a non-negative integer input.
 
